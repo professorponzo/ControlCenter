@@ -2,8 +2,8 @@
   "files": {
     "static/js/0.38b39719.chunk.js": "/ControlCenter/static/js/0.38b39719.chunk.js",
     "static/js/0.38b39719.chunk.js.map": "/ControlCenter/static/js/0.38b39719.chunk.js.map",
-    "main.js": "/ControlCenter/static/js/main.a0246b4a.chunk.js",
-    "main.js.map": "/ControlCenter/static/js/main.a0246b4a.chunk.js.map",
+    "main.js": "/ControlCenter/static/js/main.0c1f3ab9.chunk.js",
+    "main.js.map": "/ControlCenter/static/js/main.0c1f3ab9.chunk.js.map",
     "runtime-main.js": "/ControlCenter/static/js/runtime-main.8abc11b1.js",
     "runtime-main.js.map": "/ControlCenter/static/js/runtime-main.8abc11b1.js.map",
     "static/js/3.d9ec585e.chunk.js": "/ControlCenter/static/js/3.d9ec585e.chunk.js",
@@ -18,7 +18,7 @@
     "static/js/7.1d073c97.chunk.js": "/ControlCenter/static/js/7.1d073c97.chunk.js",
     "static/js/7.1d073c97.chunk.js.map": "/ControlCenter/static/js/7.1d073c97.chunk.js.map",
     "index.html": "/ControlCenter/index.html",
-    "precache-manifest.d02c1b0d09b83905bd561d08530c3ede.js": "/ControlCenter/precache-manifest.d02c1b0d09b83905bd561d08530c3ede.js",
+    "precache-manifest.c2089265f61b72870b3fba3038687cdd.js": "/ControlCenter/precache-manifest.c2089265f61b72870b3fba3038687cdd.js",
     "service-worker.js": "/ControlCenter/service-worker.js",
     "static/css/4.d75e0ccb.chunk.css.map": "/ControlCenter/static/css/4.d75e0ccb.chunk.css.map",
     "static/js/0.38b39719.chunk.js.LICENSE.txt": "/ControlCenter/static/js/0.38b39719.chunk.js.LICENSE.txt",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.8abc11b1.js",
     "static/css/4.d75e0ccb.chunk.css",
     "static/js/4.8122114a.chunk.js",
-    "static/js/main.a0246b4a.chunk.js"
+    "static/js/main.0c1f3ab9.chunk.js"
   ]
 }
