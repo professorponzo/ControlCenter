@@ -1,55 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca623d334007ca281bc59c4b0f2160ac",
+    "revision": "01991531e0adc53d83c16aec21db0987",
     "url": "/ControlCenter/index.html"
   },
   {
-    "revision": "d8b5647c061953190bb0",
+    "revision": "c05a8325d3117b7179d6",
     "url": "/ControlCenter/static/css/4.d75e0ccb.chunk.css"
   },
   {
-    "revision": "817af41dc409e0cd7102",
-    "url": "/ControlCenter/static/js/0.7facc26f.chunk.js"
+    "revision": "b398d7b87bd882e22dc1",
+    "url": "/ControlCenter/static/js/0.38b39719.chunk.js"
   },
   {
     "revision": "f31e42bdc43340228af9c8c1f4e13512",
-    "url": "/ControlCenter/static/js/0.7facc26f.chunk.js.LICENSE.txt"
+    "url": "/ControlCenter/static/js/0.38b39719.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d468aa23b886330d9b9",
-    "url": "/ControlCenter/static/js/3.fe2c1237.chunk.js"
+    "revision": "a299f0b7fffbbadc0aad",
+    "url": "/ControlCenter/static/js/3.d9ec585e.chunk.js"
   },
   {
     "revision": "caaa9c24a9c77eaead93960f555b5a26",
-    "url": "/ControlCenter/static/js/3.fe2c1237.chunk.js.LICENSE.txt"
+    "url": "/ControlCenter/static/js/3.d9ec585e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d8b5647c061953190bb0",
-    "url": "/ControlCenter/static/js/4.a764963c.chunk.js"
+    "revision": "c05a8325d3117b7179d6",
+    "url": "/ControlCenter/static/js/4.8122114a.chunk.js"
   },
   {
     "revision": "19f0fc328130dd007413231ff25ca598",
-    "url": "/ControlCenter/static/js/4.a764963c.chunk.js.LICENSE.txt"
+    "url": "/ControlCenter/static/js/4.8122114a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8cec63aeac4fe55f13c",
-    "url": "/ControlCenter/static/js/5.dfd3a6a6.chunk.js"
+    "revision": "8931ac4e179b0602586a",
+    "url": "/ControlCenter/static/js/5.763901e1.chunk.js"
   },
   {
-    "revision": "9f238e7ce276ba73b622",
-    "url": "/ControlCenter/static/js/6.96a30c73.chunk.js"
+    "revision": "c229efd478b9db4ccc8d",
+    "url": "/ControlCenter/static/js/6.d0624887.chunk.js"
   },
   {
-    "revision": "b95ef8f45e16e144cf10",
-    "url": "/ControlCenter/static/js/7.9a7bac6f.chunk.js"
+    "revision": "7a8f5deca82b9bffca30",
+    "url": "/ControlCenter/static/js/7.1d073c97.chunk.js"
   },
   {
-    "revision": "89ab562907e2526c3568",
-    "url": "/ControlCenter/static/js/main.62715217.chunk.js"
+    "revision": "e71470003c6568877f64",
+    "url": "/ControlCenter/static/js/main.a0246b4a.chunk.js"
   },
   {
-    "revision": "8fc07a1102450d4079bc",
-    "url": "/ControlCenter/static/js/runtime-main.f9cff828.js"
+    "revision": "27bf272b784b1ea21003",
+    "url": "/ControlCenter/static/js/runtime-main.8abc11b1.js"
   },
   {
     "revision": "cd061363bbf9cd7a26cb09b642dcaf63",
