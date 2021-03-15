@@ -2,15 +2,15 @@
   "files": {
     "static/js/0.38b39719.chunk.js": "/ControlCenter/static/js/0.38b39719.chunk.js",
     "static/js/0.38b39719.chunk.js.map": "/ControlCenter/static/js/0.38b39719.chunk.js.map",
-    "main.js": "/ControlCenter/static/js/main.2607184a.chunk.js",
-    "main.js.map": "/ControlCenter/static/js/main.2607184a.chunk.js.map",
+    "main.js": "/ControlCenter/static/js/main.ff9812a1.chunk.js",
+    "main.js.map": "/ControlCenter/static/js/main.ff9812a1.chunk.js.map",
     "runtime-main.js": "/ControlCenter/static/js/runtime-main.8abc11b1.js",
     "runtime-main.js.map": "/ControlCenter/static/js/runtime-main.8abc11b1.js.map",
     "static/js/3.d9ec585e.chunk.js": "/ControlCenter/static/js/3.d9ec585e.chunk.js",
     "static/js/3.d9ec585e.chunk.js.map": "/ControlCenter/static/js/3.d9ec585e.chunk.js.map",
     "static/css/4.d75e0ccb.chunk.css": "/ControlCenter/static/css/4.d75e0ccb.chunk.css",
-    "static/js/4.662ac9c8.chunk.js": "/ControlCenter/static/js/4.662ac9c8.chunk.js",
-    "static/js/4.662ac9c8.chunk.js.map": "/ControlCenter/static/js/4.662ac9c8.chunk.js.map",
+    "static/js/4.ea8c29a4.chunk.js": "/ControlCenter/static/js/4.ea8c29a4.chunk.js",
+    "static/js/4.ea8c29a4.chunk.js.map": "/ControlCenter/static/js/4.ea8c29a4.chunk.js.map",
     "static/js/5.763901e1.chunk.js": "/ControlCenter/static/js/5.763901e1.chunk.js",
     "static/js/5.763901e1.chunk.js.map": "/ControlCenter/static/js/5.763901e1.chunk.js.map",
     "static/js/6.d0624887.chunk.js": "/ControlCenter/static/js/6.d0624887.chunk.js",
@@ -18,12 +18,12 @@
     "static/js/7.1d073c97.chunk.js": "/ControlCenter/static/js/7.1d073c97.chunk.js",
     "static/js/7.1d073c97.chunk.js.map": "/ControlCenter/static/js/7.1d073c97.chunk.js.map",
     "index.html": "/ControlCenter/index.html",
-    "precache-manifest.a8862fa26a8cec06c72a0363888aa554.js": "/ControlCenter/precache-manifest.a8862fa26a8cec06c72a0363888aa554.js",
+    "precache-manifest.e3ce65e07a2eae675bf59ba258ff61fb.js": "/ControlCenter/precache-manifest.e3ce65e07a2eae675bf59ba258ff61fb.js",
     "service-worker.js": "/ControlCenter/service-worker.js",
     "static/css/4.d75e0ccb.chunk.css.map": "/ControlCenter/static/css/4.d75e0ccb.chunk.css.map",
     "static/js/0.38b39719.chunk.js.LICENSE.txt": "/ControlCenter/static/js/0.38b39719.chunk.js.LICENSE.txt",
     "static/js/3.d9ec585e.chunk.js.LICENSE.txt": "/ControlCenter/static/js/3.d9ec585e.chunk.js.LICENSE.txt",
-    "static/js/4.662ac9c8.chunk.js.LICENSE.txt": "/ControlCenter/static/js/4.662ac9c8.chunk.js.LICENSE.txt",
+    "static/js/4.ea8c29a4.chunk.js.LICENSE.txt": "/ControlCenter/static/js/4.ea8c29a4.chunk.js.LICENSE.txt",
     "static/media/arrow-down-blue.svg": "/ControlCenter/static/media/arrow-down-blue.cd061363.svg",
     "static/media/arrow-down-grey.svg": "/ControlCenter/static/media/arrow-down-grey.c0dedd2f.svg",
     "static/media/arrow-right-white.png": "/ControlCenter/static/media/arrow-right-white.337ad716.png",
@@ -54,7 +54,7 @@
   "entrypoints": [
     "static/js/runtime-main.8abc11b1.js",
     "static/css/4.d75e0ccb.chunk.css",
-    "static/js/4.662ac9c8.chunk.js",
-    "static/js/main.2607184a.chunk.js"
+    "static/js/4.ea8c29a4.chunk.js",
+    "static/js/main.ff9812a1.chunk.js"
   ]
 }
