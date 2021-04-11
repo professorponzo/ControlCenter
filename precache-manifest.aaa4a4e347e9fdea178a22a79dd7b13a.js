@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06314daa661119a9e93ab413f71d9724",
+    "revision": "80b9e2eb483057d3447462289f4ccd5c",
     "url": "/ControlCenter/index.html"
   },
   {
-    "revision": "7880873fd8558a88d019",
+    "revision": "c2f99f48c4fb2b057f45",
     "url": "/ControlCenter/static/css/4.d75e0ccb.chunk.css"
   },
   {
@@ -16,24 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ControlCenter/static/js/0.38b39719.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a299f0b7fffbbadc0aad",
-    "url": "/ControlCenter/static/js/3.d9ec585e.chunk.js"
+    "revision": "d498756f73e569443def",
+    "url": "/ControlCenter/static/js/3.bc7ce638.chunk.js"
   },
   {
     "revision": "caaa9c24a9c77eaead93960f555b5a26",
-    "url": "/ControlCenter/static/js/3.d9ec585e.chunk.js.LICENSE.txt"
+    "url": "/ControlCenter/static/js/3.bc7ce638.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7880873fd8558a88d019",
-    "url": "/ControlCenter/static/js/4.ea8c29a4.chunk.js"
+    "revision": "c2f99f48c4fb2b057f45",
+    "url": "/ControlCenter/static/js/4.21c08806.chunk.js"
   },
   {
     "revision": "19f0fc328130dd007413231ff25ca598",
-    "url": "/ControlCenter/static/js/4.ea8c29a4.chunk.js.LICENSE.txt"
+    "url": "/ControlCenter/static/js/4.21c08806.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8931ac4e179b0602586a",
-    "url": "/ControlCenter/static/js/5.763901e1.chunk.js"
+    "revision": "9a682a43bb3ae6a3189a",
+    "url": "/ControlCenter/static/js/5.6f702e50.chunk.js"
   },
   {
     "revision": "c229efd478b9db4ccc8d",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ControlCenter/static/js/7.1d073c97.chunk.js"
   },
   {
-    "revision": "6ed9b17d5114db2f48a3",
-    "url": "/ControlCenter/static/js/main.ff9812a1.chunk.js"
+    "revision": "a401c244a13670a50b5c",
+    "url": "/ControlCenter/static/js/main.7b9b69f2.chunk.js"
   },
   {
-    "revision": "27bf272b784b1ea21003",
-    "url": "/ControlCenter/static/js/runtime-main.8abc11b1.js"
+    "revision": "611cb7723547530b9498",
+    "url": "/ControlCenter/static/js/runtime-main.995dc308.js"
   },
   {
     "revision": "cd061363bbf9cd7a26cb09b642dcaf63",
